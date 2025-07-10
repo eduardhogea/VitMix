@@ -88,7 +88,7 @@ If you use this project in your research, please cite:
 @inproceedings{,
   title     = {ViTmiX: Vision Transformer Explainability Augmented by Mixed Visualization Methods},
   author    = {},
-  booktitle = {Proceedings of the ACM International Conference on Multimedia (ACMMM)},
+  booktitle = {XXXXXXX.XXXXXXX},
   year      = {2025},
   doi       = {XXXXXXX.XXXXXXX}
 }
